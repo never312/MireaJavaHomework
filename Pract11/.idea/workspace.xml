@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ecded1b-d103-4fcf-b6cc-6724f46cb1e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab16/Lab16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12/src/ru/mirea/ikbo1218/grachev/exOthers/AllTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12/src/ru/mirea/ikbo1218/grachev/exOthers/AllTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pract8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pract8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pract9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pract9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract5/src/ru/mirea/ikbo1218/grachev/Practice5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pract5/src/ru/mirea/ikbo1218/grachev/Practice5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract7/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract7/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1UVcFXGenLQvmBq3XIzgtYesdDZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Tester (1)">
+    <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.ikbo1218.grachev.ex4.Parser" />
+      <module name="Pract11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.ikbo1218.grachev.ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.ikbo1218.grachev.ex1.QueueTest" />
+      <module name="Pract11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.ikbo1218.grachev.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.ikbo1218.grachev.ex4.Tester" />
+      <module name="Pract11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.ikbo1218.grachev.ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.ikbo1218.grachev.ex3.Tester" />
+      <module name="Pract11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.ikbo1218.grachev.ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tester (1)" />
+        <item itemvalue="Application.Parser" />
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.QueueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ecded1b-d103-4fcf-b6cc-6724f46cb1e3" name="Default Changelist" comment="" />
+      <created>1575445099617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575445099617</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="314" key="GridCell.Tab.0.bottom" timestamp="1577013068238">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="314" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577013068238" />
+    <state width="1398" height="314" key="GridCell.Tab.0.center" timestamp="1577013068237">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="314" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577013068237" />
+    <state width="1398" height="314" key="GridCell.Tab.0.left" timestamp="1577013068236">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="314" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577013068236" />
+    <state width="1398" height="314" key="GridCell.Tab.0.right" timestamp="1577013068237">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="314" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577013068237" />
+  </component>
+</project>
